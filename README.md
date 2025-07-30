@@ -20,6 +20,6 @@
 
    Cloner le projet
    
-  1. git clone git@github.com:hackusman/stock-manager.git
+  1. git clone https://github.com/hackusman/stock-manager.git
   2. cd stock-manager
 
