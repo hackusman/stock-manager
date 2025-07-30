@@ -6,7 +6,6 @@
 
 > Une application web de gestion des catégories développée avec Laravel** et SQLite.
 
---
 
 ## ✨ Fonctionnalités
 
@@ -16,11 +15,11 @@
 - 📄 Pagination des résultats (10 par page)  
 - 🖼️ Interface sobre et conforme aux maquettes  
 
---
 
 ## Installation & Lancement
 
    Cloner le projet
-   git clone git@github.com:hackusman/stock-manager.git
-   cd stock-manager
+   
+  1. git clone git@github.com:hackusman/stock-manager.git
+  2. cd stock-manager
 
