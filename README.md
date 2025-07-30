@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=for-the-badge&logo=sqlite)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php)
 
-> Une application web de gestion des catégories développée avec Laravel** et SQLite.
+> Une application web de gestion des catégories développée avec Laravel et SQLite.
 
 
 ## ✨ Fonctionnalités
